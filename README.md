@@ -3,8 +3,8 @@
 > For studiyng
 ## Motivação
 Atualmente (2° Quadrimestre de 2023) estou cursando pela faculdade a disciplina, Engenharia Econômica, e durante as aulas um dos temas que foram passados foi, 
-modelos de Amortização de Dívidas. Com intuito de fixar o conhecimento e aprimorar minhas habildiades de programação fiz esse pequeno projeto 
-que, recebe o valor da Dívida, taxa de juros dos períodos e o Número de Períodos retornando a tabela repectiva do modelo escolhido.
+modelos de Amortização de Dívidas. Com intuito de fixar o conhecimento e aprimorar minhas habildiades de programação fiz esse pequeno projeto que,
+recebe o valor da Dívida, taxa de juros dos períodos e o Número de Períodos retornando a tabela repectiva do modelo escolhido.
 
 ## Desafio e Etapas
 Nessa aplicação o desafio foi desenvolver uma aplicação visual e interativa em Python.
