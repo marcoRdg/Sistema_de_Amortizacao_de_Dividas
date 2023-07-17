@@ -8,6 +8,7 @@ recebe o valor da Dívida, taxa de juros dos períodos e o Número de Períodos 
 
 ## Desafio e Etapas
 Nessa aplicação o desafio foi desenvolver uma aplicação visual e interativa em Python.
+
 Bibliotecas: 
 - NumPy
 - Pandas
