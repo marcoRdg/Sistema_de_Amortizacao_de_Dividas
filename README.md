@@ -13,6 +13,9 @@ Bibliotecas:
 - Pandas
 - Tkinter
 
+O código possui o arquivo main, no qual é formatado o layout da aplicação e, um arquivo auxiliar com as funções para cada respectivo modelo,
+mais específico o Americano com juros constantes, Francês (Sistema Price) pagamentos constantes e, Hamburguês amortização constante.
+
 ![Alt Text](library/prints/print_layout.png)
 ![Alt Text](library/prints/print_metodos.png)
 
